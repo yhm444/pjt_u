@@ -1,0 +1,11 @@
+dwc2.c:1442:12:dwc2_usb_remove	32	static
+dwc2.c:1336:12:dwc2_usb_of_to_plat	32	static
+dwc2.c:158:13:dwc_otg_core_reset.isra.0	32	static
+dwc2.c:1423:12:dwc2_usb_probe	80	static
+dwc2.c:822:5:wait_for_chhltd	48	static
+dwc2.c:919:5:chunk_msg	192	static
+dwc2.c:1302:12:dwc2_submit_control_msg	128	static
+dwc2.c:1046:5:_submit_bulk_msg	0	static
+dwc2.c:1314:12:dwc2_submit_bulk_msg	48	static
+dwc2.c:1124:5:_submit_int_msg	80	static
+dwc2.c:1324:12:dwc2_submit_int_msg	64	static

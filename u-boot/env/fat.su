@@ -1,0 +1,3 @@
+fat.c:35:14:env_fat_device_and_part	32	static
+fat.c:54:12:env_fat_save	16656	static
+fat.c:109:12:env_fat_load	16656	static
